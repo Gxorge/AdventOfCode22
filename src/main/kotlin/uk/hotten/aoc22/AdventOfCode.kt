@@ -1,9 +1,10 @@
 package uk.hotten.aoc22;
 
-import uk.hotten.aoc22.days.DayOne;
+import uk.hotten.aoc22.days.DayTwo
 
 fun main() {
-    val test = DayOne();
+    val day = DayTwo();
 
-    test.part2();
+    day.part1()
+    day.part2();
 }
