@@ -1,9 +1,8 @@
 package uk.hotten.aoc22.days
 
 import uk.hotten.aoc22.AOCDay
-import java.util.Dictionary
 
-class DayOne: AOCDay("day1.txt") {
+class Day1: AOCDay("day1.txt") {
 
     val elfs = mutableMapOf<Int, Int>()
 

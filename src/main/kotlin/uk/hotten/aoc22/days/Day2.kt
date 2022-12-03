@@ -2,7 +2,7 @@ package uk.hotten.aoc22.days
 
 import uk.hotten.aoc22.AOCDay
 
-class DayTwo: AOCDay("day2.txt") {
+class Day2: AOCDay("day2.txt") {
 
     /**
      * A - Rock (1)
